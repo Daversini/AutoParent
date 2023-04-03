@@ -1,6 +1,6 @@
 {
   "name": "com.bersiproduction.autoparent",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "AutoParent",
   "description": "Create a parent for selected objects",
   "unity": "2021.3",
